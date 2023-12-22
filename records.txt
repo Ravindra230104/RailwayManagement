@@ -1,0 +1,5 @@
+1000012802 19 ravindra male Nagpur 1900
+1000012802 1 rohit male Nagpur 1900
+1000013331 23 virat male Nagpur 2100
+1000013331 18 smriti female Nagpur 2100
+1000013331 7 mitali female Nagpur 2100
